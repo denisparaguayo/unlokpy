@@ -934,3 +934,12 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     }
 
 }
+#mc_embed_signup div#mce-responses {
+    /* float: none; */
+    top: -1.4em;
+    padding: 0em 0.5em 0em 0.5em;
+    overflow: hidden;
+    width: 98%;
+    /* margin: 8px 5%; */
+    /* clear: none; */
+}
